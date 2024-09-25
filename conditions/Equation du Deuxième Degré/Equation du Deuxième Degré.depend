@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1727259424 source:c:\users\ycode\desktop\exercices sur les variables\conditions\equation du deuxième degré\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
